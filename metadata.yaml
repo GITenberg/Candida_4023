@@ -1,0 +1,51 @@
+_repo: Candida_4023
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: "Candida, a comedy by playwright George Bernard Shaw, was written in\
+  \ 1894 and first published in 1898, as part of his Plays Pleasant. The central characters\
+  \ are clergyman James Morell, his wife Candida and a youthful poet, Eugene Marchbanks,\
+  \ who tries to win Candida's affections. The play questions Victorian notions of\
+  \ love and marriage, asking what a woman really desires from her husband. The cleric\
+  \ is a Christian Socialist, allowing Shaw—himself a Fabian Socialist—to weave political\
+  \ issues, current at the time, into the story.\nShaw attempted but failed to have\
+  \ a London production of the play put on in the 1890s, but there were two small\
+  \ provincial productions. However, in late 1903 actor Arnold Daly had such a great\
+  \ success with the play that Shaw would write by 1904 that New York was seeing \"\
+  an outbreak of Candidamania\". The Royal Court Theatre in London performed the play\
+  \ in six matinees in 1904. The same theatre staged several other of Shaw's plays\
+  \ from 1904 to 1907, including further revivals of Candida.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4023'
+  wikidata: Q3509127
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'Marriage -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: Candida
+url: http://www.gutenberg.org/ebooks/4023
+wikipedia:
+- https://cs.wikipedia.org/wiki/Candida_(divadeln%C3%AD_hra)
+- https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D8%AF%D8%A7_(%DA%A9%D8%AA%D8%A7%D8%A8)
+- https://es.wikipedia.org/wiki/C%C3%A1ndida_(obra_de_teatro)
+- https://en.wikisource.org/wiki/Candida
+- https://en.wikipedia.org/wiki/Candida_(play)
+- https://it.wikipedia.org/wiki/Candida_(Shaw)
+- https://ru.wikiquote.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0
+- https://ro.wikipedia.org/wiki/Candida_(pies%C4%83)
+- https://sv.wikipedia.org/wiki/Candida_(pj%C3%A4s)
