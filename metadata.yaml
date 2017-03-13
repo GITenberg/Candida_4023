@@ -1,5 +1,8 @@
 _repo: Candida_4023
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shaw, Bernard
@@ -23,6 +26,8 @@ description: "Candida, a comedy by playwright George Bernard Shaw, was written i
   \ in six matinees in 1904. The same theatre staged several other of Shaw's plays\
   \ from 1904 to 1907, including further revivals of Candida.\n\n\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4023#Candida
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
